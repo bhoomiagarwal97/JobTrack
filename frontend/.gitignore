@@ -1,0 +1,18 @@
+# Frontend
+jobtrack-frontend/node_modules/
+jobtrack-frontend/dist/
+
+# Backend
+jobtracker/target/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.env
+application-local.properties

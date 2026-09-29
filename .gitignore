@@ -1,0 +1,19 @@
+# Backend
+backend/target/
+backend/.idea/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# IDE
+.idea/
+.vscode/
+
+# Environment / secrets
+.env
+application-local.properties
+
+# OS
+.DS_Store
+Thumbs.db
